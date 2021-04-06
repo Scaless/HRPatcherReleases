@@ -1,5 +1,8 @@
 {
-  "versions": {
-    "1.2094.0.0": "HRPatcher_2094.dll"
-  }
+  "versions": [
+    {
+      "version" : "1.2094.0.0",
+      "file" : "HRPatcher_2094.dll"
+    }
+  ]
 }
