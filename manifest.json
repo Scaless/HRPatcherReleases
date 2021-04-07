@@ -3,6 +3,10 @@
     {
       "version" : "1.2094.0.0",
       "file" : "HRPatcher_2094.dll"
+    },
+    {
+      "version" : "1.2241.0.0",
+      "file" : "HRPatcher_2241.dll"
     }
   ]
 }
