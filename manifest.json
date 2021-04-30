@@ -2,15 +2,20 @@
   "versions": [
     {
       "version" : "1.2094.0.0",
-      "file" : "HRPatcher_2094.dll"
+      "file" : "HRPatcher_2094.dll",
+      "sha1" : "F46511A2DC133EF8323CB1590A0F2885B383654A"
     },
     {
       "version" : "1.2241.0.0",
-      "file" : "HRPatcher_2241.dll"
+      "file" : "HRPatcher_2241.dll",
+      "sha1" : "F3747CFF3A99DF082984B807CBFFDF3F2F1985C5"
     },
     {
       "version" : "1.2282.0.0",
-      "file" : "HRPatcher_2282.dll"
+      "file" : "HRPatcher_2282.dll",
+      "sha1" : "645DF21752D7A37DAF0B6E165AB688236EC9966E"
     }
-  ]
+  ],
+  "current_patcher_version" : 2,
+  "current_patcher_link": "https://github.com/Scaless/HRPatcherReleases/releases/tag/v2"
 }
