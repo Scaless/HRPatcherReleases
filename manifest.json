@@ -14,6 +14,11 @@
       "version" : "1.2282.0.0",
       "file" : "HRPatcher_2282.dll",
       "sha1" : "C28CE0E8E916F3EDDE85C6DCA50D8C1045B8CC5C"
+    },
+    {
+      "version" : "1.2406.0.0",
+      "file" : "HRPatcher_2406.dll",
+      "sha1" : "626799106AC916FCC8AEDABBACDBB445EA841E9D"
     }
   ],
   "current_patcher_version" : 2,
