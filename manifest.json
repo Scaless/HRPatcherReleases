@@ -40,6 +40,12 @@
       "file" : "HRPatcher_2611.dll",
       "sha1" : "9BD46E6C0CE7ED926D34EB84880A710674BCDE2D"
     }
+    },
+    {
+      "version" : "1.2645.0.0",
+      "file" : "HRPatcher_2645.dll",
+      "sha1" : "A978F75A1F1BBF212A7CD5AFCA44AA7BCEB1F33A"
+    }
   ],
   "current_patcher_version" : 3,
   "current_patcher_link": "https://github.com/Scaless/HRPatcherReleases/releases/tag/v3"
