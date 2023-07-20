@@ -54,6 +54,11 @@
       "version" : "1.3232.0.0",
       "file" : "HRPatcher_3232.dll",
       "sha1" : "2294B36590BE70106BAAB3E5EE195C19F8584DDE"
+    },
+    {
+      "version" : "1.3251.0.0",
+      "file" : "HRPatcher_3251.dll",
+      "sha1" : "3085DEFA716AA810387D276E0BAE802CF7DE3CD5"
     }
   ],
   "current_patcher_version" : 3,
