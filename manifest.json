@@ -71,6 +71,12 @@
       "file" : "HRPatcher_3251.dll",
       "sha1" : "3085DEFA716AA810387D276E0BAE802CF7DE3CD5",
       "comment" : "Addresses are same as previous version"
+    },
+    {
+      "version" : "1.3495.0.0",
+      "file" : "HRPatcher_3251.dll",
+      "sha1" : "3085DEFA716AA810387D276E0BAE802CF7DE3CD5",
+      "comment" : "Addresses are same as previous version"
     }
   ],
   "current_patcher_version" : 3,
